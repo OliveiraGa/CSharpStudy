@@ -1,0 +1,14 @@
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.exe
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.deps.json
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.runtimeconfig.json
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.runtimeconfig.dev.json
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.dll
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\bin\Debug\netcoreapp3.1\byteBank_ADM.pdb
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.csproj.AssemblyReference.cache
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.AssemblyInfoInputs.cache
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.AssemblyInfo.cs
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.csproj.CoreCompileInputs.cache
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.dll
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.pdb
+C:\GitProjects\CSharpStudy\byteBank_ADM\byteBank_ADM\obj\Debug\netcoreapp3.1\byteBank_ADM.genruntimeconfig.cache

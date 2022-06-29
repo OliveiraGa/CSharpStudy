@@ -4,22 +4,21 @@ using System.Text;
 
 namespace byteBank_ADM.Funcionarios
 {
-    public class Diretor : Funcionario
+    public class Designer : Funcionario
     {
-
-        public Diretor(string cpf) : base(cpf, 5000)
+        public Designer(string cpf) : base(cpf, 3000)
         {
 
-        }       
+        }
 
         public override void AumentarSalario()
         {
-            Salario += Salario * 0.15;
+            Salario +=  Salario * 0.11;
         }
 
         public override double GetBonificacao()
         {
-            return Salario + 0.5;
+            return Salario * 0.17;
         }
     }
 }

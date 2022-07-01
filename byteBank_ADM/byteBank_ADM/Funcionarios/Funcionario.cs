@@ -9,8 +9,7 @@ namespace byteBank_ADM.Funcionarios
         public int _tipo;
         public string Nome { get; set; }
         public string CPF { get; private set; }
-        public double Salario { get; protected set; }
-        
+        public double Salario { get; protected set; }        
 
         public static int totalDeFuncionario { get; private set; }
 
